@@ -21,5 +21,8 @@ public class Main1085 {
 
         if(a > b) { System.out.println(b); }
         else { System.out.println(a); }
+
+        // Math.min를 사용한 리팩토링
+        // Math.min(Math.min(x1, x2 - x1), Math.min(y1, y2 - y1))
     }
 }
