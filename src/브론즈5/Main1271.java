@@ -1,7 +1,9 @@
+package 브론즈5;
+
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main {
+public class Main1271 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
