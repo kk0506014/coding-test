@@ -1,6 +1,8 @@
+package 브론즈2;
+
 import java.util.Scanner;
 
-public class Main {
+public class Main1009 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
